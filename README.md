@@ -11,6 +11,7 @@ The **Announcement Hub** is a centralized platform designed to streamline univer
 2. **Categorization**: Easily browse announcements by category.
 3. **AI Summarization**: Quickly understand announcement details.
 4. **Dark and Light Modes**: User-friendly interface options.
+5. **Administrator Dashboard**: Full dashboard for managing announcements, including upload and delete functionalities.
 
 ---
 
@@ -86,7 +87,6 @@ The **Announcement Hub** is a centralized platform designed to streamline univer
 
 - Expand the platform to include:
   - Event calendars.
-  - Administrator dashboards.
   - Multilingual support.
 
 ---
